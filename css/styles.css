@@ -45,13 +45,13 @@ main {
 
 main > .intro {
 	font-family: 'Reem Kufi', sans-serif;
-	font-size: 3.75em;
+	font-size: 2.75em;
 	font-weight: 600;
 }
 
 main > .tagline {
-	font-size: 1.5rem;
-	margin: 1.5rem 0;
+	font-size: 1.0rem;
+	margin: 1.0rem 0;
 	font-weight: 100;
 }
 
@@ -69,3 +69,11 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	color: white;
+	text-align: center;
+  }
